@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to AWS DevOps</h1>
+<h1 align="center">Welcome to AWS Devops</h1>
 <h1 align="center">Phone Number: +91 8801488096</h1>
 <h1 align="center">Learning AWS DevOps, Jenkins, Docker, Kubernetes, GitOps, ArgoCD, Terraform and Amazon Web Services</h1>
 
