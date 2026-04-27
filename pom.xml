@@ -21,7 +21,7 @@
 		<spring.version>5.1.2.RELEASE</spring.version>
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-		<sonar.host.url>http://44.210.94.66:9000/</sonar.host.url>
+		<sonar.host.url>http://54.82.39.117:9000/</sonar.host.url>
 		<sonar.login>squ_bb2013b0b3f073b72cfce6605ec80dbae51e989d</sonar.login>
 		 
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Prashanth Release Repository</name>
-	      <url>http://35.153.182.64:8081/repository/prashanth-releases/</url>
+	      <url>http://3.92.161.68:8081/repository/prashanth-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Prashanth Snapshot Repository </name>
-	      <url>http://35.153.182.64:8081/repository/prashanth-snapshot/</url>
+	      <url>http://3.92.161.68:8081/repository/prashanth-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
